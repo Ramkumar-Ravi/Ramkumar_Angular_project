@@ -1,9 +1,9 @@
 .service-box{
     padding-left:10px;
-    background-color: rgba(231, 161, 157, 0.788);
+    background-color: rgba(51, 14, 78, 0.788);
     float: left;
     width: 320px;
-    height:250px;
+    height:300px;
     box-sizing: border-box;
     /* box-shadow: 5px 5px 5px rgb(239, 223, 223); */
     margin:35px;
@@ -28,9 +28,9 @@
     height:15%;
     width:80%;
     text-align: center;
-    background-color: rgb(130, 71, 71);
-    text-shadow: 3px  white;
-    color: white;
+    background-color: rgb(16, 14, 14);
+    text-shadow: 3px  rgb(8, 8, 8);
+    color: rgb(253, 252, 251);
     font-family:Arial, Helvetica, sans-serif;
     font-size:15px;
     padding-top: 5px;

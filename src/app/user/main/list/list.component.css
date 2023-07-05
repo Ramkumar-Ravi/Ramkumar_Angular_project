@@ -15,10 +15,11 @@
     padding-top:30px;
     padding-left:10px;
     align-items: center;
-    background-color:rgb(243, 207, 205);
+    background-color:rgb(5, 67, 33);
     width:295px;
     height:230px;
     border-radius:2px;
+    margin-top: 20px;
     
 }
 .jp img:hover {

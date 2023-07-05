@@ -1,6 +1,6 @@
 .menu-bar{
-    background-color: rgb(234, 179, 175)! important;
-    color: rgb(125, 38, 52) ! important;
+    background-color: rgb(215, 33, 20)! important;
+    color: rgb(250, 242, 243) ! important;
 }
 
 .title{
@@ -21,12 +21,19 @@ li {
 }
 
 a {
-    color: rgb(123, 76, 31);
+    color: rgb(244, 241, 238);
     size: 20px;
     text-decoration: none;
     cursor: pointer;
 }
 
 a:hover{
-    color: rgb(204, 115, 67)
+    color: rgb(14, 125, 56)
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+body{
+    background-color: rgb(253, 247, 253);
 }

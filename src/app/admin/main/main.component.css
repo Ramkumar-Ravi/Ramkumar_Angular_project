@@ -1,6 +1,7 @@
 .dashboard {
     margin:50px;
-    background-color: #f7f7f7;
+    background-color: #4b0650;
+    color: white;
     padding: 20px;
     display: flex;
     flex-wrap: wrap;
@@ -14,7 +15,7 @@
   }
   
   .metric:not(:last-child) {
-    border-right: 1px solid #ccc;
+    border-right: 1px solid #064d09;
   }
   
   .metric .description {
@@ -32,7 +33,7 @@
     display: block;
     margin: 30px auto;
     padding: 10px 20px;
-    background-color: #be929d;
+    background-color: #0a5621;
     color: #fff;
     font-size: 1.2rem;
     border-radius: 5px;

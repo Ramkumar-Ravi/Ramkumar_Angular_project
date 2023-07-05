@@ -15,211 +15,205 @@
       "lastname": "Kumar",
       "id": 1,
       "type": "user"
+    },
+    {
+      "email": "priya@gmail.com",
+      "username": "priya",
+      "password": "123456",
+      "type": "user",
+      "id": 2
+    },
+    {
+      "email": "ram@gmail.com",
+      "username": "ramuji",
+      "password": "123456",
+      "type": "admin",
+      "id": 3
     }
   ],
   "list": [
     {
       "id": 1,
-      "image": "t-shirt.jpg",
-      "type": "T-shirts"
+      "image": "f1exhaust.jpg",
+      "type": "Exhaust Systems"
     },
     {
       "id": 2,
-      "image": "croptop.jpg",
-      "type": "Crop-Tops"
+      "image": "twinturbo.jpg",
+      "type": "Twin-Turbos"
     },
     {
       "id": 3,
-      "image": "chudidar.jpg",
-      "type": "Chudidar"
+      "image": "supercharger.jpg",
+      "type": "SuperCharger"
     },
     {
       "id": 4,
-      "image": "saree.jpg",
-      "type": "Sarees"
+      "image": "widebody.jpg",
+      "type": "Widebody Kits"
     }
   ],
   "products": [
     {
+      "name": "Gintani Aventador F1 Package",
+      "description": "Gintani F1 Package makes your car scream like an 90's F1 car and along with that you can get bigger flames and over 100+ HP upgrade.",
+      "image": "f1exhaust.png",
       "id": 1,
-      "name": "Cool T-Shirt",
-      "image": "cool-tshirt.jpg",
-      "description": "This t-shirt is super cool and comfortable. It's made from high-quality materials and is perfect for casual wear.",
-      "type": "t-shirt",
-      "image1": "shoes1.jpg",
-      "image2": "watches1.jpg"
+      "type": "Exhaust Systems"
     },
     {
+      "name": "Ryft Exhaust System",
+      "description": "Ryft is an custom brand make custom exhaust for your cars",
+      "image": "ryftexhaust.jpg",
       "id": 2,
-      "name": "Funky T-Shirt",
-      "image": "funky-tshirt.jpg",
-      "description": "This funky t-shirt is sure to make a statement. Its bright colors and bold design are perfect for those who want to stand out.",
-      "type": "t-shirt",
-      "image1": "shoes2.jpg",
-      "image2": "watches2.jpg"
+      "type": "Exhaust Systems"
     },
     {
+      "name": "Fi Exhaust",
+      "description": "Fi Exhausts are High pitched and comes with an valve technology",
+      "image": "fiexhaust.jpg",
       "id": 3,
-      "name": "Classic T-Shirt",
-      "image": "classic-tshirt.jpg",
-      "description": "This classic t-shirt is a wardrobe staple. It's made from soft, comfortable fabric and is perfect for everyday wear.",
-      "type": "t-shirt",
-      "image1": "shoes3.jpg",
-      "image2": "watches3.jpg"
+      "type": "Exhaust Systems"
     },
     {
+      "name": "VF Huracan Supercharger",
+      "description": "Gives your huracan a power boost over 100+hp and listen to the whining of the supercharger",
+      "image": "huracansupercharger.jpg",
       "id": 4,
-      "name": "Striped T-Shirt",
-      "image": "striped-tshirt.jpg",
-      "description": "This striped t-shirt is perfect for those who like a classic, timeless look. It's made from soft, breathable fabric and is easy to wear.",
-      "type": "t-shirt",
-      "image1": "shoes4.jpg",
-      "image2": "watches4.jpg"
+      "type": "Superchargers"
     },
     {
+      "name": "Hector Perfomance Supercharger",
+      "description": "Suitable for Mustangs and Chevys",
+      "image": "mustangsupercharger.jpg",
       "id": 5,
-      "name": "Graphic T-Shirt",
-      "image": "graphic-tshirt.jpg",
-      "description": "This graphic t-shirt features a bold design that's sure to turn heads. It's made from high-quality materials and is perfect for those who like to make a statement.",
-      "type": "t-shirt",
-      "image1": "shoes5.jpg",
-      "image2": "watches5.jpg"
+      "type": "Superchargers"
     },
     {
+      "name": "Alpha Superchargers",
+      "description": "Suitable for V8's and V10s ",
+      "image": "mustangsupercharger2.jpg",
       "id": 6,
-      "name": "Crop Top",
-      "image": "crop-top.jpg",
-      "description": "This crop top is perfect for those who want to show off a little skin. It's made from soft, breathable fabric and is perfect for warm weather.",
-      "type": "crops",
-      "image1": "shoes6.jpg",
-      "image2": "watches6.jpg"
+      "type": "Superchargers"
     },
     {
+      "name": "SheepyRace Twin-Turbo Kit(Audi R8)",
+      "description": "Boost up your R8's over a 1000HP ",
+      "image": "sheepyraceauditt.jpg",
       "id": 7,
-      "name": "Floral Crop Top",
-      "image": "floral-crop-top.jpg",
-      "description": "This floral crop top is perfect for those who like a feminine, romantic look. It's made from lightweight fabric and is perfect for summer.",
-      "type": "crops",
-      "image1": "shoes7.jpg",
-      "image2": "watches7.jpg"
+      "type": "Twin-Turbo kits"
     },
     {
+      "name": "SheepyRace Twin_Turbo Kit (Huracan)",
+      "description": "Boost up Huracans over 1000HP+ Monsters",
+      "image": "sheepyracett.jpg",
       "id": 8,
-      "name": "Off-Shoulder Crop Top",
-      "image": "off-shoulder-crop-top.jpg",
-      "description": "This off-shoulder crop top is perfect for those who want to show off their shoulders. It's made from soft, stretchy fabric and is perfect for a night out.",
-      "type": "crops",
-      "image1": "shoes8.jpg",
-      "image2": "watches8.jpg"
+      "type": "Twin-Turbo kits"
     },
     {
+      "name": "SV-R Aventador Widebody Kit",
+      "description": "Custom Carbon Fibre Widebody to make your aventador more aggressive and Mesmerizing ",
+      "image": "svraventador.jpg",
       "id": 9,
-      "name": "Lace Crop Top",
-      "image": "lace-crop-top.jpg",
-      "description": "This lace crop top is perfect for those who like a romantic, bohemian look. It's made from delicate lace fabric and is perfect for a festival or concert.",
-      "type": "crops",
-      "image1": "shoes9.jpg",
-      "image2": "watches9.jpg"
+      "type": "Widebody Kits"
     },
     {
+      "name": "Gintani Twin-Turbo Kit (Huracan V10's )",
+      "description": "Gintani TT Kit make your huracan terrorize the roads and leave dust behind",
+      "image": "gintanitt.jpg",
       "id": 10,
-      "name": "Ruffle Crop Top",
-      "image": "ruffle-crop-top.jpg",
-      "description": "This ruffle crop top is perfect for those who like a playful, girly look. It's made from lightweight fabric and is perfect for a day out with friends.",
-      "type": "crops",
-      "image1": "shoes10.jpg",
-      "image2": "watches10.jpg"
+      "type": "Twin-Turbo kits"
     },
     {
+      "name": "UnderGround Racing Twin-Turbo Kit (Aventadors)",
+      "description": "World's Top perfomance brand UGR creates the first ever aventador V12 twin-turbo, and makes the aventadors more unique and fast",
+      "image": "ugraventadortt.jpg",
       "id": 11,
-      "name": "Silk Saree",
-      "image": "silk-saree.jpg",
-      "description": "This beautiful silk saree is perfect for weddings and other special occasions. It features intricate embroidery and is made from high-quality silk.",
-      "type": "sarees",
-      "image1": "shoes11.jpg",
-      "image2": "watches11.jpg"
+      "type": "Twin-Turbo kits"
     },
     {
+      "name": "UnderGround Racing Twin-Turbo (Huracan)",
+      "description": "UGR's top rated tt kit huracans make hypercars run for their money ",
+      "image": "ugrhuracantt.jpg",
       "id": 12,
-      "name": "Cotton Saree",
-      "image": "cotton-saree.jpg",
-      "description": "This cotton saree is perfect for everyday wear. It's lightweight and comfortable, making it perfect for hot weather.",
-      "type": "sarees",
-      "image1": "shoes12.jpg",
-      "image2": "watches12.jpg"
+      "type": "Twin-Turbo kits"
     },
     {
+      "name": "Liberty Walk Widebody Kit (R35)",
+      "description": "LBWK for the Nissan GT-R 35s",
+      "image": "widebody.jpg",
       "id": 13,
-      "name": "Georgette Saree",
-      "image": "georgette-saree.jpg",
-      "description": "This georgette saree is perfect for those who want a lightweight, flowy fabric. It's perfect for parties and other special occasions.",
-      "type": "sarees",
-      "image1": "shoes13.jpg",
-      "image2": "watches13.jpg"
+      "type": "Widebody Kits"
     },
     {
+      "name": "Blower Supercharger",
+      "description": "Blower type superchargers for all the Mustangs and Chevys(Including Classics)",
+      "image": "blowersupercharger.jpg",
       "id": 14,
-      "name": "Chiffon Saree",
-      "image": "chiffon-saree.jpg",
-      "description": "This chiffon saree is perfect for those who want a lightweight, sheer fabric. It's perfect for summer and is easy to drape.",
-      "type": "sarees",
-      "image1": "shoes14.jpg",
-      "image2": "watches14.jpg"
+      "type": "Superchargers"
     },
     {
+      "name": "Liberty Walk Widebody Kit (Huracan)",
+      "description": "LBWK for all the Huracans",
+      "image": "lbwhuracan.jpg",
       "id": 15,
-      "name": "Printed Saree",
-      "image": "printed-saree.jpg",
-      "description": "This printed saree is perfect for those who like a bold, colorful look. It features a unique print and is perfect for casual wear.",
-      "type": "sarees",
-      "image1": "shoes15.jpg",
-      "image2": "watches15.jpg"
+      "type": "Widebody Kits"
+    },
+    {
+      "name": "Liberty Walk Widebody Kit (Aventador)",
+      "description": "LBWK for all aventadors ",
+      "image": "lbwaventador.jpg",
+      "id": 16,
+      "type": "Widebody Kits"
+    },
+    {
+      "name": "Custom Fabrication ",
+      "description": "Custom Fabrication for all kind of cars and Race car stuffs",
+      "image": "fabrication.jpg",
+      "id": 17,
+      "type": "Widebody Kits"
     }
-    
   ],
   "reviews": [
-    {},
     {
       "id": 3632,
-      "name": "chandana",
-      "email": "chandanachamarthy119@gmail.com",
-      "type": "t-shirts",
-      "message": "nice dress........"
+      "name": "Damon",
+      "email": "damon@dde.com",
+      "type": "Gintani F1 Package",
+      "message": "The SVJ is literally screaming lika an F1 car, Loving it"
     },
     {
       "id": 1427,
-      "name": "sreeja",
-      "email": "sreeja@gmail.com",
-      "type": "t-shirts",
-      "message": "nice designing.....love the color"
+      "name": "Ajiram",
+      "email": "ajiram@gmail.com",
+      "type": "Twin-Turbo kits",
+      "message": "Absolute crazy power up...and also bigger flames"
     },
     {
       "id": "1",
-      "name": "nidhi",
-      "email": "nidhi@gmail.com",
-      "type": "t-shirts",
-      "message": "nice color....."
+      "name": "navee",
+      "email": "navee@gmail.com",
+      "type": "Merch",
+      "message": "Loving the merch, cool af"
     }
-    
-    
   ],
   "contactus": [
     {
       "id": 96655,
-      "fname": "chandana",
-      "lname": "chamarthy",
-      "email": "chandanachamarthy119@gmail.com",
-      "message": "want a personalized styling for a party wear....."
+      "fname": "Ramkumar",
+      "lname": "Ravi",
+      "email": "arracing@gmail.com",
+      "message": "Pimp up your ride with AR Racing"
     }
   ],
   "fourm": [
     {
-      "type": "t-shirt",
-      "message": "This is a perfect collaboration. Looking forward to work again."
+      "type": "Exhaust System",
+      "message": "Literally screaming good. Looking forward to work again."
     },
     {
-      "type": "sarees",
-      "message": "This was an excellent project experience. Budget was too good."
+      "type": "Widebody kits",
+      "message": "This was an excellent project , The carbon fibre quality is really good."
     }
   ]
 }

@@ -1,5 +1,5 @@
 .rform{
-    background-color:rgb(221, 193, 156) ;
+    background-color:rgb(179, 175, 171) ;
     border-style:solid;
     border-radius:6px;
     width:50%;
@@ -11,8 +11,8 @@
   
 }
 .btn-primary{
-background-color:rgb(227, 206, 206);
-color:black;
+background-color:rgb(185, 33, 33);
+color:rgb(253, 248, 248);
 text-align: center;
 }
 .row{

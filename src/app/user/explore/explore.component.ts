@@ -14,10 +14,10 @@ export class ExploreComponent {
 
   types: string[] = [
     "All",
-    "t-shirt",
-    "crops",
-    "Chudidhars",
-    "sarees"
+    "Exhaust Systems",
+    "Twin-Turbo kits",
+    "Superchargers",
+    "Widebody Kits"
   ]
   selected: string = "All"
   constructor(private ps: ProductService) {

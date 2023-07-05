@@ -6,6 +6,7 @@
     align-items: center;
     height: 100vh;
     width: 100%;
+    background-color: rgb(107, 20, 107);
   }
   
   .design {
@@ -50,7 +51,7 @@
     display: flex;
     justify-content: flex-end;
     width: 100%;
-    color: #333;
+    color: #db3232;
     text-decoration: none;
     font-size: 14px;
   }
@@ -60,7 +61,7 @@
   }
   
   button[type="submit"] {
-    background-color: #f493a2;
+    background-color: #053905;
     color: #fff;
     border: none;
     padding: 10px;
@@ -69,7 +70,7 @@
   }
   
   button[type="submit"]:hover {
-    background-color: #e88f9c;
+    background-color: #aa0c24;
   }
   
   p {
@@ -86,7 +87,7 @@
   }
   
   mat-button-toggle {
-    background-color: #fff;
+    background-color: #eb8715;
     border: 1px solid #333;
     color: #333;
     font-size: 16px;
@@ -102,20 +103,23 @@
     border: none;
     color: #fff;
   }
-/* *{
-    margin-left:50px;
-    width:90%;
-    background-color: antiquewhite;
+.loginheader{
+  display: flex;
+  margin-left: 100px;
 }
-.div{
-    background-color: rgb(230, 213, 192);
+.loginhead1{
+  margin-left: 10px;
+  color: #aa0c24;
 }
-.whole{
-    margin-left:250px;
-    width:50%;
-    margin-top:90px;
-    background-color: rgb(230, 213, 192);
+.loginhead2{
+  padding-left: 10px;
+  color: #f3eff0;
 }
-.signup{
-    width:90%;
-} */
+.loginhead3{
+  padding-left: 10px;
+  color: #0a5c1c;
+}
+img{
+  width:100px;
+  height: 100px;
+}

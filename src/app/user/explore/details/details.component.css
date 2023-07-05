@@ -8,7 +8,8 @@
     margin-top: 5px;
     height:320px;
     width:50%;
-    background-color: rgb(205, 164, 161);
+    background-color: rgb(187, 36, 36);
+    color: white;
     border-style: outset;
 
 }
@@ -34,7 +35,7 @@
 
 .view-review ,.mat1{
     border-style:ridge;
-    background-color:rgb(227, 206, 206);
+    background-color:rgb(30, 91, 14);
     margin-right:5px;
     margin-top:5px;
     height:320px;
@@ -44,8 +45,8 @@
     margin-left:10px;
     margin-right:10px;
     border-radius: 6px;
-    background-color:rgb(239, 220, 194) ;
+    background-color:rgb(157, 85, 13) ;
 }
 .open{
-    background-color:rgb(222, 204, 204) ;
+    background-color:rgb(243, 235, 235) ;
 }
